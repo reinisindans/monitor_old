@@ -1,0 +1,265 @@
+@charset "UTF-8";
+
+html,
+body {
+	font-size: 14px;
+}
+
+h3,
+h3 a {
+	color: #326cb3;
+}
+
+h4 {
+	font-weight: 600;
+	
+}
+
+a h4 {
+	color: #000;
+}
+
+ a {
+	color: #528fcc;
+}
+.doc li {
+	padding-left:10px;
+	}
+
+hr {
+	margin-top: 0px;
+	margin-bottom: 20px;
+	border: 0;
+	border-top: 2px solid #528fcc;
+}
+
+.bold {
+	font-weight:bold;
+}
+
+
+ .checkbox-inline, .radio-inline,
+.checkbox-inline+.checkbox-inline, 
+.radio-inline+.radio-inline {
+	margin-left: 0px;
+	margin-right: 20px;
+	min-width: 250px;
+}
+.div-inline{
+	display: inline-block;   
+}
+
+.navbar-search .form-control{
+	background-color: #f2f2f2;
+	border: solid 1px #ededed;
+	border-radius: 0;
+	box-shadow: none;
+	text-indent: 18px;
+}
+@media (min-width: 768px) {
+	.navbar-search {
+		padding-right: 0;
+	}
+	.navbar-search .form-control{
+		width: 120px;
+	}
+}
+@media (min-width: 992px) {
+	.navbar-search .form-control{
+		width: auto;
+	}
+}
+
+.input-icon.search:before {
+    content: "\f002";
+    color: #528fcc;
+}
+
+.input-icon:before {
+    color: #ccc;
+    content: "\f06a";
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    position: absolute;
+    margin-top: 5px;
+    margin-left: 8px;
+    text-decoration: inherit;
+}
+
+header a,
+header a:hover {
+	color: #fff;
+}
+
+header .container,
+footer .container:last-child {
+	background-color: #326cb3;
+	color: #fff;
+}
+
+@media (min-width: 768px) {
+	header .container,
+	footer .container:last-child {
+		background-color: #326cb3;
+	}
+}
+
+header .container .row div:first-child,
+footer .container:last-child .row div:first-child {
+	background-color: #326cb3;
+}
+
+@media (min-width: 768px) {
+	header .container .row div:first-child:after,
+	footer .container:last-child .row div:first-child:after {
+		background: #326cb3;
+		border-left: 10px solid #326cb3;
+		border-right: 10px solid #fff;
+	}
+	.dl-horizontal dt {
+		width: 200px;
+		text-align: left;
+	}
+	.dl-horizontal dd {
+		margin-left: 220px;
+		margin-bottom: 20px;
+	}
+}
+
+.btn-ghost {
+	border: 1px solid rgba(255,255,255,0.65);
+}
+
+.btn-ghost:hover {
+	background-color: rgba(255,255,255,0.25);
+	border: 1px solid rgba(255,255,255,1);
+}
+
+a.btn-ghost {
+	color: #fff;
+}
+
+a.btn-ghost:hover {
+	color: #326cb3;
+}
+
+.dl-horizontal dd {
+	margin-bottom: 10px;
+}
+
+.breadcrumb {
+	background-color: transparent;
+	font-size: 12px;
+	padding: 8px 0px;
+}
+
+.label {
+	font-size: 100%;
+	font-weight: 600;
+}
+
+.first {
+	margin-top: 10px;	
+}
+
+.bibtex_search{
+	border: 1px solid lightgrey;
+}
+
+.media {	
+	border-bottom: 1px #ccc solid;
+}
+.startbox{
+	border-bottom: 0px #ccc solid;
+}
+
+.panel-category {
+	background-color: #e5e5e5;
+	border: none;
+	border-radius: 0px;
+	box-shadow: none;
+	min-height: 145px;
+}
+
+.panel-category .panel-heading{
+	background-color: #326cb3;
+	border-radius: 0px;
+	color: #fff;
+}
+
+.panel-category .panel-heading a:hover{
+	color: #8cba1c;
+}
+
+.panel-category .fa{
+	color: #326cb3;
+}
+
+.panel-default.accordeon {
+	background-color: #e5e5e5;
+	border: none;
+	border-radius: 0px;
+	box-shadow: none;
+	margin-top: 25px;
+}
+
+.panel-default.accordeon .panel-heading{
+	background-color: #ccc;
+	border-radius: 0px;
+	color: #00305d;
+}
+
+.panel-default.accordeon a{
+	color: #00305d;
+}
+
+.panel-default.accordeon a:hover{
+	color: #00305d;
+}
+
+.panel-default.accordeon a:before{
+	color: #fff;
+	content: "\f106";
+	float: left;
+	font-family: FontAwesome;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	position: absolute;
+	right: 25px;
+	margin-top: 0px;
+	text-decoration: inherit;
+}
+
+.panel-default.accordeon a.collapsed:before{
+	content: "\f107";
+}
+
+.panel-title .fa
+{
+color:#FFF;
+font-size:1.2em;
+margin-right:5px;
+margin-top:3px;
+}
+
+.doc-body{
+	margin-left:10px;
+	
+}
+.modal-backdrop{
+display:none;
+}
+
+.download{
+font-size:80%;
+}
+	
+/* Veranstaltungen: unter jedes Event kleinen Abstand und Linie*/  
+.last-p{
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #ccc;    	
+}

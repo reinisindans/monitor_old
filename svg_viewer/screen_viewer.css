@@ -1,0 +1,340 @@
+#Preloader {
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	z-index: 1;
+}
+#Karte {
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	z-index: 2;
+
+}
+#Karte_leer {
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	z-index: 2;
+}
+
+#KMenue {
+	width: 223px;
+	font-size: 12px;
+	overflow: visible;
+	height: 1000px; /*org 1200px*/
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	background-color: #EEEEEE;
+}
+body, html {
+	padding: 0px;
+	margin: 0px;
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: #FFFFFF;
+}
+.body_unterseiten {
+	background-image: url(gfx/hg_kopf_unterseiten.png);
+	background-repeat: repeat-x;
+	background-position: 0px 0px;
+}
+a {
+	color: #333;
+	text-decoration: none;
+}
+
+img {
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+}
+.button_schliessen {
+	position:absolute;
+	top:1px;
+	background-image: url(gfx/button_schliessen_0.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	right: 0px;
+	width: 16px;
+}
+
+.button_schliessen:hover {
+	background-image: url(gfx/button_schliessen_1.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+}
+.button_show {
+	position:absolute;
+	top:0px;
+	left:0px;
+	background-image: url(gfx/button_show_0.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	width: 16px;
+	height: 17px;
+}
+.button_show:hover {
+	position:absolute;
+	top:0px;
+	left:0px;
+	background-image: url(gfx/button_show_1.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	width: 16px;
+	height: 17px;
+}
+.button_standard_abschicken {
+	background-color: #CCCCCC;
+	margin-top: 5px;
+	border: 1px solid #666666;
+
+	border-radius:4px;
+	outline:0; 
+
+}
+
+.button_blau_abschicken {
+	margin-top: 5px;
+	border: 1px solid #666666;
+	background-color: #BDDDFD;
+
+	border-radius:4px;
+	outline:0; 
+
+}
+.button_gruen_abschicken {
+	margin-top: 5px;
+	border: 1px solid #666666;
+	background-color: #BAD380;
+	
+	border-radius:4px;
+	outline:0; 
+	
+}
+
+.button_gruen_abschicken_gross {
+	height: 50px; 
+	width:190px; 
+	font-weight:bold;
+	margin-top: 5px;
+	border: 1px solid #666666;
+	background-color: #BAD380;
+	box-shadow: 5px 5px rgba(0,0,0,0.3); 
+
+	border-radius:4px;
+	outline:0; 
+
+	
+}
+
+.button_tabellentitel {
+	padding: 12px; 
+	font-weight:normal;
+	font-size: 17px;
+	text-align: center;
+	border: 1px solid #666666;
+	background-color: #DDDDDD;
+	box-shadow: 2px 2px 2px 2px rgba(0,0,0,0.3); 
+
+	border-radius:4px;
+	outline:0; 
+
+	
+}
+
+.button_rot_abschicken {
+	margin-top: 5px;
+	border: 1px solid #666666;
+	background-color: #D68B83;
+
+	border-radius:4px;
+	outline:0; 
+
+}
+.button_grau_abschicken {
+	margin-top: 5px;
+	border: 1px solid #666666;
+	background-color: #CCC;
+
+	border-radius:4px;
+	outline:0; 
+
+}
+
+.button_standard_abschicken_a {
+	background-color: #CCCCCC;
+	margin-top: 5px;
+	border: 1px solid #666666;
+	padding: 2px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	border-radius:4px;
+	outline:0; 
+
+}
+.button_standard_abschicken_a a:link {
+	color: #000000;
+	text-decoration: none;
+}
+.button_standard_abschicken_a a:visited {
+	text-decoration: none;
+	color: #000000;
+}
+.button_standard_abschicken_a a:hover {
+	text-decoration: none;
+	color: #000000;
+}
+.button_standard_abschicken_a a:active {
+	text-decoration: none;
+	color: #000000;
+}
+
+
+
+
+
+#Zeichenvorschrift {
+	opacity:0;
+	left:0px;
+	right:0px;
+	position:absolute;
+	width:100%;
+	height:100%;
+	background:#000000;
+	z-index:20;
+	top: 0px;
+	bottom: 0px;
+	visibility: hidden;
+}
+#Zeichenvorschrift_Content {
+	margin-top:5px;
+	margin-left:auto;
+	margin-right:auto;
+	width:800px;
+	height:600px;
+	background:#ffffff;
+	overflow: auto;
+	padding-top: 3px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+}
+.grauer_hintergrund {
+	background-color: #dddddd;
+	padding: 5px;
+	border: 1px solid #CCC;
+}
+
+.transp_hintergrund {
+	padding: 5px;
+}
+.graue_Box {
+	background-color: #eeeeee;
+	padding: 10px;
+}
+
+.Text_10px {
+	font-size: 10px;
+}
+.reglerTeil  {
+	overflow: hidden;
+	height: 2px;
+	width: 10px;
+}
+.reglerTeil:hover {
+	background:#333333;
+ }
+.reglerTeil_aktiv {
+	overflow: hidden;
+	height: 2px;
+	width: 10px;
+	background:#777777;
+}
+.reglerRahmen {
+	width:10px;
+	border:1px #333333 solid;
+	padding:3px;
+	overflow: hidden;
+}
+.Farbwahlfeld_klein {
+	height: 5px;
+	width: 5px;
+	float: left;
+}
+.gedreht {
+     transform: rotate(270deg);
+}
+
+.ui-dialog { z-index: 100000 !important ;}
+
+.ui-dialog .indikatoren{ 
+	z-index: 100000 !important ;
+	height:90%;
+	}
+
+.ui-widget-overlay{ 
+  
+  opacity: .6;
+}
+
+.ui-dialog-titlebar{
+	background-color: #BAD380;
+	}
+	
+ .indikatoren {
+background-color: #326cb3;
+	color: #FFF;
+	}
+	
+	
+	
+	
+
+@media print {
+	.nicht_im_print {
+	display:none;
+	height: 0px;
+	width: 0px;
+	}
+}
+@media screen {
+	.nur_im_print {	
+	display:none;
+	height: 0px;
+	width: 0px;
+	}
+}
+
+/*Indikatorenschema (Ind_UEbersicht_Kat_einzeln5.php*/
+.dienste_ausgabe{
+font-size: 0.7em;
+border: 0.5px dotted #bbb;
+padding-left: 5px;
+}
+
+.button-text{
+	font-size: 0.7em;
+	color: #326cb3;
+	}
+	
+	.button-text:hover{
+	text-decoration: none;
+	}
+	
+	.ind-names{
+		font-size:0.9em;
+		}
+	
+				.symbols{
+		padding-bottom: 5px;
+
+		margin-bottom: 5px;
+		border-bottom: 1px solid #ccc;
+		
+		}
+		
+		
+		
+	/*Ende Indikatorenschema (Ind_UEbersicht_Kat_einzeln5.php*/	

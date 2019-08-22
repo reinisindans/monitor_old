@@ -1,0 +1,921 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<record>
+		<Stadt>Aachen</Stadt>
+		<Stadtgliederung>Stadtbezirk</Stadtgliederung>
+		<Quellhinweis>Stadt Aachen, Open Data Portal (http://offenedaten.aachen.de), Stadtbezirke. 
+Datenlizenz Deutschland - Namensnennung - Version 2.0 (www.govdata.de/dl-de/by-2-0) </Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Aalen</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>Stadtverwaltung Aalen, Stadtmessungsamt</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Ahlen</Stadt>
+		<Quellhinweis>keine Daten verfügbar</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Arnsberg</Stadt>
+		<Stadtgliederung>Statistischer Bezirk</Stadtgliederung>
+		<Quellhinweis>Stadt Arnsberg, Immobilienbewertung und Geodatenservice</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Aschaffenburg</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>OSM-Mitwirkende</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Augsburg</Stadt>
+		<Stadtgliederung>Planungsraum</Stadtgliederung>
+		<Quellhinweis>OSM-Mitwirkende</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Bad Homburg v.d.H.</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>Stadtverwaltung Bad Homburg v.d.H., Verwaltung und Technik</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Bad Salzuflen</Stadt>
+		<Stadtgliederung>Gemarkung</Stadtgliederung>
+		<Quellhinweis>Land Nordrhein-Westfalen (2017). Digitale Geodaten NRW (https://www.opengeodata.nrw.de), Gemarkungen und Fluren. 
+Datenlizenz Deutschland - Namensnennung - Version 2.0 (www.govdata.de/dl-de/by-2-0). </Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Baden Baden</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>Stadt Baden-Baden, Fachgebiet Vermessung und Geoinformation </Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Bamberg</Stadt>
+		<Quellhinweis>keine Daten verfügbar</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Bayreuth</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>Stadt Bayreuth, Stadtplanungsamt</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Bergheim
+(Rhein-Erft-Kreis)</Stadt>
+		<Quellhinweis>keine Daten verfügbar</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Bergisch Gladbach</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>Stadt Bergisch Gladbach, Geoservice</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Berlin</Stadt>
+		<Stadtgliederung>Bezirk</Stadtgliederung>
+		<Quellhinweis>Senatsverwaltung für Stadtentwicklung und Wohnen Berlin, Geoportal Berlin</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Bielefeld</Stadt>
+		<Stadtgliederung>Stadtbezirk</Stadtgliederung>
+		<Quellhinweis>© Stadt Bielefeld, 2016, Creative Commons Namensnennung (CC BY 4.0): http://creativecommons.org/licenses/by/4.0/</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Bocholt</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>Stadtverwaltung Bocholt, FB Grundstücks- und Bodenwirtschaft</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Bochum</Stadt>
+		<Stadtgliederung>Stadtbezirk</Stadtgliederung>
+		<Quellhinweis>Stadt Bochum, 01 - Büro für Angelegenheiten des Rates und des Oberbürgermeisters, Statistik und Stadtforschung</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Bonn</Stadt>
+		<Stadtgliederung>Stadtbezirk</Stadtgliederung>
+		<Quellhinweis>Bundesstadt Bonn, Amt für Bodenmanagement und Geoinformation</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Bottrop</Stadt>
+		<Stadtgliederung>Stadtbezirk</Stadtgliederung>
+		<Quellhinweis>Stadt Bottrop
+Amt für Informationsverarbeitung (12/3)</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Brandenburg an der Havel</Stadt>
+		<Quellhinweis>keine Daten verfügbar</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Braunschweig</Stadt>
+		<Stadtgliederung>Stadtbezirk</Stadtgliederung>
+		<Quellhinweis>Stadt Braunschweig - Open GeoData, 2016, Lizenz: dl-de/by-2-0</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Bremen</Stadt>
+		<Stadtgliederung>Stadtbezirk</Stadtgliederung>
+		<Quellhinweis>ATKIS Basis-DLM; www.statistik-bremen.de; OSM-Mitwirkende</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Bremerhaven</Stadt>
+		<Stadtgliederung>Stadtbezirk</Stadtgliederung>
+		<Quellhinweis>ATKIS Basis-DLM; www.bremerhaven.de</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Castrop-Rauxel</Stadt>
+		<Stadtgliederung>Statistischer Bezirk</Stadtgliederung>
+		<Quellhinweis>OSM-Mitwirkende</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Celle</Stadt>
+		<Stadtgliederung>Ortsteil</Stadtgliederung>
+		<Quellhinweis>Stadtverwaltung Celle, Fachdienst Informationstechnik &amp; Geodaten</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Chemnitz</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>OSM-Mitwirkende</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Cottbus</Stadt>
+		<Stadtgliederung>Ortsteil</Stadtgliederung>
+		<Quellhinweis>OSM-Mitwirkende</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Darmstadt</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>Wissenschaftsstadt Darmstadt, Vermessungsamt</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Düren</Stadt>
+		<Quellhinweis>keine Daten verfügbar</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Düsseldorf</Stadt>
+		<Stadtgliederung>Stadtbezirk</Stadtgliederung>
+		<Quellhinweis>OSM-Mitwirkende</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Delmenhorst</Stadt>
+		<Stadtgliederung>Stadtbezirk</Stadtgliederung>
+		<Quellhinweis>Stadt Delmenhorst, Fachbereich Planen, Bauen, Umweltschutz, Landwirtschaft und Verkehr</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Dessau-Roßlau</Stadt>
+		<Stadtgliederung>Stadtbezirk</Stadtgliederung>
+		<Quellhinweis>Stadt Dessau-Roßlau, Amt für Stadtentwicklung, Denkmalpflege und Geodienste</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Detmold</Stadt>
+		<Stadtgliederung>Ortsteil</Stadtgliederung>
+		<Quellhinweis>Stadt Detmold, Fachbereich Stadtentwicklung</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Dinslaken</Stadt>
+		<Stadtgliederung>Siedlungsbezirk</Stadtgliederung>
+		<Quellhinweis>OSM-Mitwirkende</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Dormagen</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>Stadt Dormagen, Bauverwaltung, Liegenschaften und Umweltschutz</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Dorsten</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>OSM-Mitwirkende</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Dortmund</Stadt>
+		<Stadtgliederung>Stadtbezirk</Stadtgliederung>
+		<Quellhinweis>© Stadt Dortmund, Vermessungs-und Katasteramt, Lizenz-Nr: 1606425</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Dresden</Stadt>
+		<Stadtgliederung>Ortsamtsbereich; Ortschaft</Stadtgliederung>
+		<Quellhinweis>Herausgegeben mit Genehmigung des Amtes für Geodaten und Kataster der Landeshauptstadt Dresden, Genehmigungsnr.: 06 62.07.17 </Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Duisburg</Stadt>
+		<Stadtgliederung>Stadtbezirk</Stadtgliederung>
+		<Quellhinweis>OSM-Mitwirkende</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Emden</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>Stadt Emden, Fachdienst Stadtplanung</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Erfurt</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>Amt für Geoinformation und Bodenordnung (Registrier-Nr. 62/01/884/2016)</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Erlangen</Stadt>
+		<Stadtgliederung>Statistischer Bezirk</Stadtgliederung>
+		<Quellhinweis>Stadt Erlangen, Statistik und Stadtforschung</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Eschweiler</Stadt>
+		<Stadtgliederung>Ortsteil</Stadtgliederung>
+		<Quellhinweis>Stadt Eschweiler, Abteilung für Planung und Entwicklung</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Essen</Stadt>
+		<Stadtgliederung>Stadtbezirk</Stadtgliederung>
+		<Quellhinweis>OSM-Mitwirkende</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Esslingen a.N.</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>OSM-Mitwirkende</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Euskirchen</Stadt>
+		<Stadtgliederung>Gemarkung</Stadtgliederung>
+		<Quellhinweis>Land NRW (2017). Datenlizenz Deutschland - Namensnennung 
+- Version 2.0 (www.govdata.de/dl-de/by-2-0). Gemarkungen und Fluren (https://www.opengeodata.nrw.de/produkte/geobasis/lika/alkis_sek/gem_flur/gem_flur_EPSG25832_Shape.zip)</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Fürth</Stadt>
+		<Stadtgliederung>Stadtbezirk</Stadtgliederung>
+		<Quellhinweis>Amt für Forschung und Statistik für Nürnberg und Fürth, Stand 2016</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Flensburg</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>Stadt Flensburg, Technisches Betriebszentrum AöR, Abteilung Vermessung und GIS-Koordination</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Frankfurt am Main</Stadt>
+		<Stadtgliederung>Ortsbezirk</Stadtgliederung>
+		<Quellhinweis>Stadt Frankfurt am Main, Offene Daten Frankfurt (http://offenedaten.frankfurt.de), Stadtgtgeilgrenzen (verändert). 
+Datenlizenz Deutschland - Namensnennung - Version 2.0 (www.govdata.de/dl-de/by-2-0) </Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Frankfurt Oder</Stadt>
+		<Quellhinweis>keine Daten verfügbar</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Frechen</Stadt>
+		<Quellhinweis>keine Daten verfügbar</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Freiburg im Breisgau</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>Stadt Freiburg, Amt für Bürgerservice und Informationsverarbeitung (http://stadtplan.freiburg.de), Kleinräumige Gliederung: Stadtbezirke. 
+Datenlizenz Deutschland – Namensnennung – Version 2.0. </Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Friedrichshafen</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>Stadt Friedrichshafen, Amt für Vermessung und Liegenschaften 
+</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Fulda</Stadt>
+		<Stadtgliederung>Statistischer Bezirk</Stadtgliederung>
+		<Quellhinweis>Stadt Fulda, Grundstücks- und Vermessungsamt</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Garbsen</Stadt>
+		<Quellhinweis>keine Daten verfügbar</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Gelsenkirchen</Stadt>
+		<Stadtgliederung>Stadtbezirk</Stadtgliederung>
+		<Quellhinweis>Stadt Gelsenkirchen, Referat Verwaltungskoordinierung, Abteilung Statistik und Monitoring, Statistikstelle</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Gera</Stadt>
+		<Stadtgliederung>Statistischer Bezirk</Stadtgliederung>
+		<Quellhinweis>Stadtverwaltung Gera, Fachgebiet Statistik und GIS 
+</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Gießen</Stadt>
+		<Stadtgliederung>Gemarkung</Stadtgliederung>
+		<Quellhinweis>Stadt Gießen, Vermessungsamt</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Gladbeck</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>Stadt Gladbeck, Ingenieuramt, Abteilung Vermessung</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Göppingen</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>Stadt Göppingen, Fachbereich Tiefbau, Umwelt, Verkehr und Vermessung </Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Görlitz</Stadt>
+		<Quellhinweis>keine Daten verfügbar</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Goslar</Stadt>
+		<Quellhinweis>keine Daten verfügbar</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Göttingen</Stadt>
+		<Stadtgliederung>Stadtbezirk</Stadtgliederung>
+		<Quellhinweis>Stadtbezirke - Stadt Göttingen - Der Oberbürgermeister, Fachdienst Bodenordnung, Vermessung und Geoinformation, 30.08.2016, 2016/D080</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Greifswald</Stadt>
+		<Stadtgliederung>Ortsteil</Stadtgliederung>
+		<Quellhinweis>OpenData.HRO. Gemeindeteile Mecklenburg-Vorpommern (2016). Creative Commons Creative Commons 1.0 Public Domain Dedication</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Grevenbroich</Stadt>
+		<Quellhinweis>keine Daten verfügbar</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Gütersloh</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>Stadt Gütersloh, Fachbereich Bauordnung und Vermessung, Abteilung Geoinformation</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Hagen</Stadt>
+		<Stadtgliederung>Stadtbezirk</Stadtgliederung>
+		<Quellhinweis>Stadt Hagen, Amt für Geoinformation und Liegenschaftskataster</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Halle an der Saale</Stadt>
+		<Stadtgliederung>Stadtbezirk</Stadtgliederung>
+		<Quellhinweis>© Landesamt für Vermessung und Geoinformation Sachsen-Anhalt (LVermGeo)</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Hamburg</Stadt>
+		<Stadtgliederung>Bezirk</Stadtgliederung>
+		<Quellhinweis>Freie und Hansestadt Hamburg, Landesbetrieb Geoinformation und Vermessung (http://geodienste.hamburg.de), ALKIS-Verwaltungsgrenzen (geändert). Datenlizenz Deutschland – Namensnennung – Version 2.0 </Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Hameln</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>Stadt Hameln, Abteilung Stadtentwicklung und Planung</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Hamm</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>Stadt Hamm, Vermessungs- und Katasteramt</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Hanau</Stadt>
+		<Stadtgliederung>Gemarkung</Stadtgliederung>
+		<Quellhinweis>Stadt Hanau, Fachbereich Grundstücke und Logistik, Abteilung Geoinformation</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Hannover</Stadt>
+		<Stadtgliederung>Stadtbezirk</Stadtgliederung>
+		<Quellhinweis>Grenzen © Landeshauptstadt Hannover, 2016</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Hattingen</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>Stadt Hattingen , FB Stadtplanung und Stadtentwicklung , Geoinformation</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Hürth</Stadt>
+		<Quellhinweis>keine Daten verfügbar</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Heidelberg</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>OSM-Mitwirkende</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Heilbronn</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>Stadt Heilbronn, Vermessungs- und Katasteramt</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Herford</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>OSM-Mitwirkende</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Herne</Stadt>
+		<Stadtgliederung>Stadtbezirk</Stadtgliederung>
+		<Quellhinweis>Stadt Herne, Fachbereich Vermessung und Kataster, Kataster, Kartografie, Bodenordnung</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Herten</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>OSM-Mitwirkende</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Hilden </Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>Stadt Hilden, Haupt- &amp; Personalamt, Sachgebiet Informationstechnologie</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Hildesheim</Stadt>
+		<Stadtgliederung>Statistischer Bezirk</Stadtgliederung>
+		<Quellhinweis>Geobasisdaten © Stadt Hildesheim</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Ibbenbüren</Stadt>
+		<Quellhinweis>keine Daten verfügbar</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Ingolstadt</Stadt>
+		<Stadtgliederung>Stadtbezirk</Stadtgliederung>
+		<Quellhinweis>Kartenbasis: Stadt Ingolstadt; Amt für Verkehrsmanagement und Geoinformation. Kleinräumiges Gliederungssystem: Stadt Ingolstadt, Sachgebiet Statistik und Stadtforschung
+</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Iserlohn</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>Stadt Iserlohn</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Jena</Stadt>
+		<Stadtgliederung>Ortsteil</Stadtgliederung>
+		<Quellhinweis>Stadtverwaltung Jena, Dezernat für Finanzen, Sicherheit &amp; Bürgerservice</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Kaiserslautern</Stadt>
+		<Stadtgliederung>Ortsbezirk</Stadtgliederung>
+		<Quellhinweis>Stadt Kaiserlautern, Referat Stadtentwicklung, Abteilung Stadtvermessung</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Karlsruhe</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>Stadt Karlsruhe, Amt für Stadtentwicklung (https://www.karlsruhe.de/statistik), Stadtteile. Datenlizenz Deutschland – Namensnennung – Version 2.0 (https://www.govdata.de/dl-de/by-2-0)</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Kassel</Stadt>
+		<Stadtgliederung>Ortsbezirk</Stadtgliederung>
+		<Quellhinweis>Stadt Kassel, Vermessung und Geoinformation</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Kempten (Allgäu)</Stadt>
+		<Stadtgliederung>Bezirk</Stadtgliederung>
+		<Quellhinweis>Stadt Kempten (Allgäu), Amt für Wirtschaft und Stadtentwicklung, 
+Kommunale Statistikstelle</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Kerpen</Stadt>
+		<Quellhinweis>keine Daten verfügbar</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Kiel</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>Landeshauptstadt Kiel, Amt für Bauordnung, Vermessung und Geoinformation</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Koblenz</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>Stadtverwaltung Koblenz, Amt für Stadtvermessung u. Bodenmanagement</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Köln</Stadt>
+		<Stadtgliederung>Stadtbezirk</Stadtgliederung>
+		<Quellhinweis>Stadt Köln, Offene Daten (https://www.offenedaten-koeln.de), Stadtbezirke. CC BY 3.0 DE (https://creativecommons.org/licenses/by/3.0/de/)</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Konstanz</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>Stadt Konstanz, Amt für Liegenschaften und Geoinformation</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Krefeld</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>Stadt Krefeld, Vermessungs- und Katasterwesen</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Landshut</Stadt>
+		<Quellhinweis>keine Daten verfügbar</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Langenfeld (Rhld.)</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>Stadtverwaltung Langenfeld (Rhld.), Referat Stadtplanung und Denkmalschutz</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Langenhagen</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>OSM-Mitwirkende</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Leipzig</Stadt>
+		<Stadtgliederung>Stadtbezirk</Stadtgliederung>
+		<Quellhinweis>Stadt Leipzig, Amt für Statistik und Wahlen</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Leverkusen</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>© Stadt Leverkusen, Fachbereich Kataster und Vermessung, Nr. 2016-GB-1199</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Lingen (Ems)</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>Stadt Lingen</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Lippstadt</Stadt>
+		<Stadtgliederung>Ortsteil</Stadtgliederung>
+		<Quellhinweis>Stadt Lippstadt, FD GeoService und Wertermittlung </Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Lübeck</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>Hansestadt Lübeck, Kommunale Statistikstelle</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Lüdenscheid</Stadt>
+		<Stadtgliederung>Statistischer Bezirk</Stadtgliederung>
+		<Quellhinweis>Stadt Lüdenscheid, Fachbereich 4 - Planen und Bauen</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Ludwigsburg</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>Stadt Ludwigsburg, Fachbereich Stadtplanung und Vermessung </Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Ludwigshafen</Stadt>
+		<Stadtgliederung>Ortsbezirk</Stadtgliederung>
+		<Quellhinweis>OSM-Mitwirkende</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Lüneburg</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>OSM-Mitwirkende</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Lünen </Stadt>
+		<Stadtgliederung>Statistischer Bezirk</Stadtgliederung>
+		<Quellhinweis>Stadt Lünen, Abteilung Vermessung, Geoinformationswesen</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Magdeburg</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>Landeshauptstadt Magdeburg, Amt für Statistik</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Mainz</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>Landeshauptstadt Mainz, Amt für Stadtentwicklung, Statistik und Wahlen</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Mannheim</Stadt>
+		<Stadtgliederung>Stadtbezirk</Stadtgliederung>
+		<Quellhinweis>© 2016 Stadt Mannheim, Kommunale Statistikstelle</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Marburg</Stadt>
+		<Stadtgliederung>Kernstadtbezirk; Außenstadtteil</Stadtgliederung>
+		<Quellhinweis>Stadt Marburg,  Bauverwaltung u. Vermessung </Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Marl</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>OSM-Mitwirkende</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Meerbusch</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>Stadt Meerbusch, Grundstücke und Vermessung</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Menden (Sauerland)</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>Stadt Menden (Sauerland), Abt. Zentrale Dienste </Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Minden</Stadt>
+		<Stadtgliederung>Stadtbezirk</Stadtgliederung>
+		<Quellhinweis>OSM-Mitwirkende</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Moers</Stadt>
+		<Stadtgliederung>Sozialraum</Stadtgliederung>
+		<Quellhinweis>Stadt Moers, Statistik und Zentrale Dienste</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Mönchengladbach</Stadt>
+		<Stadtgliederung>Stadtbezirk</Stadtgliederung>
+		<Quellhinweis>Stadt Mönchengladbach, Fachbereich Geoinformation</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Mühlheim an der Ruhr</Stadt>
+		<Stadtgliederung>Stadtbezirk</Stadtgliederung>
+		<Quellhinweis>OSM-Mitwirkende</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>München</Stadt>
+		<Stadtgliederung>Stadtbezirk</Stadtgliederung>
+		<Quellhinweis>Landeshauptstadt München, GeodatenService</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Münster</Stadt>
+		<Stadtgliederung>Stadtbezirk</Stadtgliederung>
+		<Quellhinweis>OSM-Mitwirkende</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Neu-Ulm</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>Stadt Neu-Ulm, Geoinformation und Vermessung </Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Neubrandenburg</Stadt>
+		<Stadtgliederung>Ortsteil</Stadtgliederung>
+		<Quellhinweis>OpenData.HRO. Gemeindeteile Mecklenburg-Vorpommern (2016). Creative Commons Creative Commons 1.0 Public Domain Dedication</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Neumünster</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>Stadt Neumünster, Fachdienst Stadtplanung und Stadtentwicklung</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Neuss</Stadt>
+		<Stadtgliederung>Statistischer Bezirk</Stadtgliederung>
+		<Quellhinweis>Stadt Neuss, Amt für Wirtschaftsförderung</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Neustadt an der Weinstraße</Stadt>
+		<Stadtgliederung>Gemarkung</Stadtgliederung>
+		<Quellhinweis>Neustadt an der Weinstraße, Abteilung Stadtplanung</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Neuwied</Stadt>
+		<Stadtgliederung>Gemarkung</Stadtgliederung>
+		<Quellhinweis>©GeoBasis-DE / LVermGeoRP (2016), dl-de/by-2-0, http://www.lvermgeo.rlp.de [Daten bearbeitet] </Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Norderstedt</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>Stadtverwaltung Norderstedt, Amt 17 (EDV)</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Nordhorn</Stadt>
+		<Stadtgliederung>Gemarkung</Stadtgliederung>
+		<Quellhinweis>Landesamt für Geoinformation und Landesvermessung Niedersachsen (LGLN)</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Nürnberg</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>Amt für Forschung und Statistik für Nürnberg und Fürth, Stand 2016</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Oberhausen</Stadt>
+		<Stadtgliederung>Stadtbezirk</Stadtgliederung>
+		<Quellhinweis>Stadt Oberhausen, Geodaten, Vermessung und Kataster</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Offenbach am Main</Stadt>
+		<Stadtgliederung>Statistischer Bezirk</Stadtgliederung>
+		<Quellhinweis>Stadt Offenbach am Main, Statistik (Geometrie: Raumbezugssystem, Stand: 2016)
+</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Offenburg</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>Stadt Offenburg, Fachbereich Wirtschaftsförderung und Stadtentwicklung</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Oldenburg (Oldb)</Stadt>
+		<Stadtgliederung>Stadtbezirk</Stadtgliederung>
+		<Quellhinweis>Stadt Oldenburg (Oldb), Fachdienst Geoinformation und Statistik </Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Osnabrück</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>Stadt Osnabrück, Fachbereich Geodaten und Verkehrsanlagen</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Paderborn</Stadt>
+		<Stadtgliederung>Stadtbezirk</Stadtgliederung>
+		<Quellhinweis>© Stadt Paderborn, Az. 62-2-01/15-09-2016</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Pforzheim</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>Stadtverwaltung Pforzheim, Amt für Stadtplanung, Liegenschaften und Vermessung</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Plauen</Stadt>
+		<Stadtgliederung>Stadtgebiet</Stadtgliederung>
+		<Quellhinweis>Stadt Plauen, FB Zentrale Dienste</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Potsdam</Stadt>
+		<Stadtgliederung>Stadtbezirk</Stadtgliederung>
+		<Quellhinweis>Stadtbezirke © Landeshauptstadt Potsdam </Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Pulheim</Stadt>
+		<Quellhinweis>keine Daten verfügbar</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Ratingen</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>Stadt Ratingen, GIS Management</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Recklinghausen</Stadt>
+		<Stadtgliederung>Statistischer Bezirk</Stadtgliederung>
+		<Quellhinweis>Stadt Recklinghausen, SG Geoinformationssysteme</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Regensburg</Stadt>
+		<Stadtgliederung>Stadtbezirk</Stadtgliederung>
+		<Quellhinweis>Stadt Regenburg, Abteilung Statistik</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Remscheid</Stadt>
+		<Stadtgliederung>Bezirk</Stadtgliederung>
+		<Quellhinweis>Stadtverwaltung Remscheid, Geodatenmanagement / GIS</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Reutlingen</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>Stadt Reutlingen, Amt für Stadtentwicklung und Vermessung</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Rheine</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>Stadt Rheine, Fachbereich Planen und Bauen, Vermessung und Geoinformationsdienste</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Rosenheim</Stadt>
+		<Quellhinweis>keine Daten verfügbar</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Rostock</Stadt>
+		<Stadtgliederung>Ortsteil</Stadtgliederung>
+		<Quellhinweis>OpenData.HRO. Gemeindeteile Mecklenburg-Vorpommern (2016). Creative Commons Creative Commons 1.0 Public Domain Dedication</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Rüsselsheim</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>Stadt Rüsselsheim am Main, Fachbereich Umwelt und Planung</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Saarbrücken</Stadt>
+		<Stadtgliederung>Stadtbezirk</Stadtgliederung>
+		<Quellhinweis>OSM-Mitwirkende</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Salzgitter</Stadt>
+		<Stadtgliederung>Ortschaft</Stadtgliederung>
+		<Quellhinweis>OSM-Mitwirkende</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Sankt Augustin </Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>Stadt Sankt Augustin, Vermessung und Statistik</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Schwäbisch Gmünd</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>Stadt Schwäbisch Gmünd, Vermessungs­ und Liegenschaftsamt</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Schweinfurt</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>Stadt Schweinfurt, Stadtentwicklungs­ und Hochbauamt</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Schwerin</Stadt>
+		<Stadtgliederung>Ortsteil</Stadtgliederung>
+		<Quellhinweis>OpenData.HRO. Gemeindeteile Mecklenburg-Vorpommern (2016). Creative Commons Creative Commons 1.0 Public Domain Dedication</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Siegen</Stadt>
+		<Stadtgliederung>Gemarkung</Stadtgliederung>
+		<Quellhinweis>Stadt Siegen, Vermessung und Geoinformation</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Sindelfingen</Stadt>
+		<Stadtgliederung>Gemarkung</Stadtgliederung>
+		<Quellhinweis>Stadt Sindelfingen, Bürgeramt Stadtentwicklung und Bauen -Geoinformation- </Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Solingen</Stadt>
+		<Stadtgliederung>Stadtbezirk</Stadtgliederung>
+		<Quellhinweis>Stadt Solingen, Stadtdienst Vermessung und Kataster</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Stolberg (Rhld.)</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>Stadt Stolberg (Rhld.), Amt für Immobilienmanagement und Technische Infrastruktur, Abteilung Vermessung</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Stralsund</Stadt>
+		<Stadtgliederung>Stadtgebiet; Küstengebiet</Stadtgliederung>
+		<Quellhinweis>OpenData.HRO. Gemeindeteile Mecklenburg-Vorpommern (2016). Creative Commons Creative Commons 1.0 Public Domain Dedication</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Stuttgart</Stadt>
+		<Stadtgliederung>Stadtbezirk</Stadtgliederung>
+		<Quellhinweis>Landeshauptstadt Stuttgart, Stadtmessungsamt</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Trier</Stadt>
+		<Stadtgliederung>Ortsbezirk</Stadtgliederung>
+		<Quellhinweis>OSM-Mitwirkende</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Troisdorf</Stadt>
+		<Stadtgliederung>Stadtbezirk</Stadtgliederung>
+		<Quellhinweis>OSM-Mitwirkende</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Tübingen</Stadt>
+		<Quellhinweis>keine Daten verfügbar</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Ulm</Stadt>
+		<Quellhinweis>keine Daten verfügbar</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Unna</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>Kreis Unna, Vermessung und Kataster</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Velbert </Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>OSM-Mitwirkende</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Viersen</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>Stadt Viersen, Liegenschaften und Geodaten</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Villingen-Schwenningen</Stadt>
+		<Stadtgliederung>Gemarkung</Stadtgliederung>
+		<Quellhinweis>Villingen-Schwenningen, Städtisches Vermessungsamt</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Waiblingen</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>Stadt Waiblingen, Fachbereich Stadtplanung </Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Weimar</Stadt>
+		<Stadtgliederung>Stadtbezirk</Stadtgliederung>
+		<Quellhinweis>Stadt Weimar, Stadtentwicklungsamt, Abt. Geoinformation u. Statistik</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Wesel</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>Geoportal Wesel. Datenlizenz Deutschland – Zero – Version 2.0 (https://www.govdata.de/dl-de/zero-2-0)</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Wetzlar</Stadt>
+		<Stadtgliederung>Bezirk</Stadtgliederung>
+		<Quellhinweis>Stadt Wetzlar</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Wiesbaden</Stadt>
+		<Stadtgliederung>Ortsbezirk</Stadtgliederung>
+		<Quellhinweis>Landeshauptstadt Wiesbaden, Amt für Strategische Steuerung, Stadtforschung und Statistik</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Wilhelmshaven</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>Stadt Wilhelmshaven, Geoinformation-Vermessung-Statistik</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Willich</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>Stadt Willich, Geschäftsbereich Stadtplanung</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Wismar</Stadt>
+		<Stadtgliederung>Ortsteil</Stadtgliederung>
+		<Quellhinweis>OpenData.HRO. Gemeindeteile Mecklenburg-Vorpommern (2016). Creative Commons Creative Commons 1.0 Public Domain Dedication</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Witten</Stadt>
+		<Stadtgliederung>Stadtteil</Stadtgliederung>
+		<Quellhinweis>OSM-Mitwirkende</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Wolfenbüttel</Stadt>
+		<Stadtgliederung>Stadtteil; Ortschaft</Stadtgliederung>
+		<Quellhinweis>OSM-Mitwirkende</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Wolfsburg</Stadt>
+		<Stadtgliederung>Ortschaft</Stadtgliederung>
+		<Quellhinweis>Stadt- und Ortsteile der Stadt Wolfsburg, Geschäftsbereich IT - 15-3 GIS, 2016</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Worms</Stadt>
+		<Stadtgliederung>Gemarkung</Stadtgliederung>
+		<Quellhinweis>Stadt Worms,  Planen und Bauen, Stadtvermessung und Geoinformationen</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Wuppertal</Stadt>
+		<Stadtgliederung>Stadtbezirk</Stadtgliederung>
+		<Quellhinweis>Stadt Wuppertal (www.offenedaten‐wuppertal.de), Datenquelle: CC‐BY‐4.0 </Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Würzburg</Stadt>
+		<Stadtgliederung>Stadtbezirk</Stadtgliederung>
+		<Quellhinweis>OSM-Mitwirkende</Quellhinweis>
+	</record>
+	<record>
+		<Stadt>Zwickau </Stadt>
+		<Stadtgliederung>Stadtbezirk</Stadtgliederung>
+		<Quellhinweis>Stadt Zwickau, Stadtplanungsamt</Quellhinweis>
+	</record>
+</data-set>

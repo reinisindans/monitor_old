@@ -1,0 +1,12 @@
+PHP Fortschrittsbalken v1.2
+
+##############################
+## Changelog
+##########
+
+Version 1.2:
+- Numerische Anzeige hinzugefügt, kann mit $myprogressbar->set_show_digits(true/false) ein bzw. ausgeschaltet werden (standard ist ein)
+- Der globale JavaScript wird beim ersten print_code()-Aufruf in den HTML-Code geschrieben.
+  Vorher geschah das schon im Konstrukter (also "new progressbar(...)") der ersten Bar.
+- Die statische Variable $js_prefix wurde eingeführt, um Konflikte mit anderem JavaScript zu vermeiden.
+- Einige Änderungen an der Beispieldatei "example.php".
